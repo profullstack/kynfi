@@ -10,6 +10,12 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Web](https://img.shields.io/badge/web-kynfi.com-green.svg)](https://kynfi.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://kynfi.com)
+[![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)](https://kynfi.com)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://kynfi.com)
+[![Android](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white)](https://kynfi.com)
+[![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)](https://kynfi.com)
+[![PWA](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white)](https://kynfi.com)
 
 ---
 
