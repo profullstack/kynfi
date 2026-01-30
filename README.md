@@ -1,4 +1,10 @@
-# Kynfi
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./static/logo.white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./static/logo.black.svg">
+    <img alt="Kynfi" src="./static/logo.black.svg" width="200">
+  </picture>
+</p>
 
 **Secure file & photo sync across all your devices.**
 
